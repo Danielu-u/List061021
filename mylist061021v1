@@ -30,6 +30,12 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
+#EXTINF:-1 ,LA LIGA TV
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
+
+#EXTINF:-1 ,GOL
+http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
+
 #EXTINF:-1 ,Ckucky1
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
 #EXTINF:-1 ,Chucky2
