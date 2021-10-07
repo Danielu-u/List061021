@@ -9,6 +9,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 ,EXTREME TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 ,TOPLATINOTV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
 #EXTINF:-1 ,MEXICO:Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
 
