@@ -46,6 +46,8 @@ http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 
 
+#EXTINF:-1 ,DEADPOOL
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 #EXTINF:-1 ,Ckucky1
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
 #EXTINF:-1 ,Chucky2
