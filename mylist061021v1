@@ -36,6 +36,9 @@ http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
 #EXTINF:-1 ,GOL
 http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
 
+#EXTINF:-1 ,E!
+http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
+
 #EXTINF:-1 ,Ckucky1
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
 #EXTINF:-1 ,Chucky2
@@ -45,8 +48,6 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj
 #EXTINF:-1 ,Novia de ckucky
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
 
-#EXTINF:-1 ,DEADPOOL
-https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 #EXTINF:-1 ,INTENSAMENTE
 https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
