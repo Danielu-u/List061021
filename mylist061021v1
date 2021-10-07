@@ -39,8 +39,9 @@ http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
 #EXTINF:-1 ,E!
 http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
 
-#EXTINF:-1 ,TOP LATINO TV
+#EXTINF:-1 ,TOPLATINOTV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
 
 #EXTINF:-1 ,Ckucky1
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
